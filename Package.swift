@@ -6,8 +6,8 @@ import Foundation
 // tags are load-bearing: KMMBridge looks for them verbatim and fails the publish if
 // they've drifted.
 // BEGIN KMMBRIDGE VARIABLES BLOCK (do not edit)
-let remoteKotlinUrl = "https://github.com/code-payments/flipcash-shared-core-spm/releases/download/0.17.0/SharedCore.xcframework.zip"
-let remoteKotlinChecksum = "53231361a44c2700c80de14810ad2b90ca151ba095676405cbc5de994c34273f"
+let remoteKotlinUrl = "https://github.com/code-payments/flipcash-shared-core-spm/releases/download/0.18.0/SharedCore.xcframework.zip"
+let remoteKotlinChecksum = "ee60ae585ce5f509ad09c9affd4057c9072ebccc3d4043f263c5497521941f18"
 let packageName = "SharedCore"
 // END KMMBRIDGE BLOCK
 
